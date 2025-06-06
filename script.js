@@ -1,8 +1,8 @@
 const quotes = [
-    "Be yourself; everyone else is already taken. – Oscar Wilde",
-    "Two things are infinite: the universe and human stupidity. – Albert Einstein",
-    "So many books, so little time. – Frank Zappa",
-    "A room without books is like a body without a soul. – Cicero",
+    "Class lo unnapudu evadana cheptadu. Exam lo rasevade topper avtadu. – Ravindra Narayan",
+    "Manam Bagunapudu lekalu mataladi. Kasthalo unapudu viluvalu matladakudadu. – Viraj Anand",
+    "Knowledge is Divine ante Wine entha tagithe antha manchidi. – Shivram Babai",
+    "Athiga aasapade magaadu... athiga aavesapade aadadhi sukhapadinatu charithra lo ledu. – Narasimha",
     "In the middle of every difficulty lies opportunity. – Einstein"
   ];
   
